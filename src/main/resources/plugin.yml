@@ -1,0 +1,10 @@
+name: Social
+version: ${project.version}
+main: me.fascinated.social.Social
+commands:
+  discord:
+  website:
+  teamspeak:
+  social:
+  store:
+  twitter:

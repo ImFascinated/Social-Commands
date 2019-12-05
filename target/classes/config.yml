@@ -1,0 +1,27 @@
+no-permssion: "§cYou don't have permission to run this command"
+command-disabled: "§cThis command has been disabled"
+
+discord-command:
+  enabled: true
+  message:
+  - "&a&lDiscord &8» &fCheck out our discord at discord.server.com"
+
+website-command:
+  enabled: true
+  message:
+  - "&a&lWebsite &8» &fCheck out our website at server.com"
+
+teamspeak-command:
+  enabled: true
+  message:
+  - "&a&lTeamspeak &8» &fYou can join our teamspeak at ts.server.com"
+
+twitter-command:
+  enabled: true
+  message:
+    - "&a&lTwitter &8» &fYou can find our twitter at twitter.server.com"
+
+store-command:
+  enabled: true
+  message:
+    - "&a&lStore &8» &fYou can check out our store at shop.server.com"

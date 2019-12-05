@@ -1,0 +1,10 @@
+name: Social
+version: 0.14-SNAPSHOT
+main: me.fascinated.social.Social
+commands:
+  discord:
+  website:
+  teamspeak:
+  social:
+  store:
+  twitter:
